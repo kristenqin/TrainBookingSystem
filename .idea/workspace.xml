@@ -1,125 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4e6a1b75-298f-44a7-a7c4-20164ed4b530" name="Default" comment="项目初始化 --&gt; 跑通项目">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vue2-manage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.postcssrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/check-versions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/dev-client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/dev-server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/vue-loader.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/webpack.base.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/webpack.dev.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/webpack.prod.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/webpack.test.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/dev.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/prod.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/test.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_web/列车信息.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_web/列车查询.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_web/换乘查询.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_web/换乘车票查询.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_web/查询列车时刻表.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_web/订单列表.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_web/车票查询购买.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_web/选座.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_web/项目结构图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/css/app.85873a69abe58e3fc37a13d571ef59e2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/fonts/element-icons.b02bdc1.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/0.dea7087f7a00b4016329.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/1.4b6299d2e3b0bc5dca41.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/10.3e8f9c037e5098ffaf76.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/11.ef8e6cb57a82667e3714.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/12.612d5902ed752548341e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/13.501e23458a33450b0c0e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/14.689ee50eed49edbde8f9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/15.8c1687e8ba9642bcad71.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/16.bc21dfb9de933f156bbb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/2.5f437a7efe16a33fe1e4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/3.28b469892221efe4a939.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/4.bb2dfef4dcd1278529af.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/5.49463e850f79a28d720f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/6.7dc76f41f558da8b23ac.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/7.9a00e892a62825f83555.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/8.5be44c5602c67d88fff7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/9.a3d33a7086a2486cd05a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/app.e0a31587e6a57da7a5c1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/manifest.dcee10e3d0ac2ad34379.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage/static/js/vendor.22faa6a1913df07d3952.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/getData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/123.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/avator.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/password.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/username.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/headTop.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tendency.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/visitorPie.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/fetch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/mUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/store_cookie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/AddPassenger.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/AllOrderList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/ChangePassword.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/ChangeUserInfo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/NoPayOrderList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/NoTripOrderList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/PassengerInfo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/TicketChange.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/TicketOrder.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/TrainInfoList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/TrainParkingInfo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/TrainSchedule.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/TrainTransfer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/TrainTransferTicketQuery.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/TransferTicketOrder.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/UserInfo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/manage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/register.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/ticketInquiry.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/vueEdit.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/common.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/mixin.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/e2e/nightwatch.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/e2e/runner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/e2e/specs/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/unit/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/unit/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/unit/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/unit/specs/Hello.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/theme/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/theme/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/theme/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,6 +141,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kristenqin/TrainBookingSystem.git",
+    "accountId": "d34feaee-4b87-42c4-b965-51ad64f49029"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/page/ChangePassword.vue" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/page/TrainParkingInfo.vue" root0="SKIP_INSPECTION" />
@@ -416,6 +308,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/dev/TrainBookingSystem/front",
@@ -538,8 +431,17 @@
       <workItem from="1723295328075" duration="173000" />
       <workItem from="1723295514371" duration="88000" />
       <workItem from="1723295608018" duration="69000" />
-      <workItem from="1723295682878" duration="139000" />
+      <workItem from="1723295682878" duration="696000" />
     </task>
+    <task id="LOCAL-00001" summary="项目初始化 --&gt; 跑通项目">
+      <option name="closed" value="true" />
+      <created>1723296556072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723296556072</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
